@@ -1,0 +1,5 @@
+rootProject.name='BeginningJava'
+include ':app'
+include ':javapractice'
+include ':couldthisbelove'
+include ':AmIHealthy'
